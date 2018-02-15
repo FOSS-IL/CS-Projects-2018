@@ -1,4 +1,4 @@
-# IT-Projects-2018
+# CS-Projects-2018
 ## Why GitHub?
 GitHub provides with an easy and intuitional way to introduce yourself with open-source project development. It provides numerous benefits including easier collaboration with colleagues and peers, ability to look back on previous versions, and tons of easy integration options. A few interesting advantages of GitHub are :-
 ##### You can have your code reviewed by the community :
